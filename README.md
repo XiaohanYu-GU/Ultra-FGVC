@@ -2,6 +2,7 @@
 
 ## Basic information
 This work is accepted in ICCV2021. Please cite this paper in the following format should you need to use the dataset.
+
 @inproceedings{yu2021benchmark,
   title={Benchmark platform for ultra-fine-grained visual categorization beyond human performance},
   author={Yu, Xiaohan and Zhao, Yang and Gao, Yongsheng and Yuan, Xiaohui and Xiong, Shengwu},
@@ -9,6 +10,7 @@ This work is accepted in ICCV2021. Please cite this paper in the following forma
   pages={10285--10295},
   year={2021}
 }
+
 * Xiaohan Yu, Yang Zhao, Yongsheng Gao, Xiaohui Yuan, Shengwu Xiong (2021). Benchmark Platform for Ultra-Fine-Grained Visual Categorization BeyondHuman Performance. In ICCV2021.
 
 ## Source Download
